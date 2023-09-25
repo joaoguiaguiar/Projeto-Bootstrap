@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+
+.card{
+    transition: translateY  0.3s ease; 
+}
+
+
+
+.cards__mover:hover{
+    transform: translateY(-30px);
+}
